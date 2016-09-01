@@ -1,5 +1,5 @@
 # state-sales-tax ![](https://img.shields.io/badge/status-stable-green.svg)
-----
+
 This npm module returns the (daily) updated sales tax by state (JSON).
 
 ## Installation
@@ -14,7 +14,7 @@ const salesTax = require('state-sales-tax');
 
 salesTax();
 /* 
-* ==> {"Alabama":"4.000%","Alaska":"0.000%"...}
+* ==> {"Alabama":"4.000%","Alaska":"0.000%"...} (JSON)
 */
 ```
 
