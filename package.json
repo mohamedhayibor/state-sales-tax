@@ -1,0 +1,25 @@
+{
+  "name": "state-sales-tax",
+  "version": "0.0.0",
+  "description": "This npm module returns the (daily) updated sales tax by state (JSON).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\ or even needed :) " && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohamedhayibor/state-sales-tax.git"
+  },
+  "keywords": [
+    "sales tax",
+    "sales-tax",
+    "taxes",
+    "states",
+  ],
+  "author": "Mohamed Hayibor <mohamedhayibor@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mohamedhayibor/state-sales-tax/issues"
+  },
+  "homepage": "https://github.com/mohamedhayibor/state-sales-tax#readme"
+}
