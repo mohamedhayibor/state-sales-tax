@@ -1,6 +1,6 @@
 {
   "name": "state-sales-tax",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This npm module returns the (daily) updated sales tax by state (JSON).",
   "main": "index.js",
   "scripts": {
